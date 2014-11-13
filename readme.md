@@ -1,6 +1,6 @@
 ##second test
 ###third test
 
-*yeki
-*dota
-*seta
+* yeki
+* dota
+* seta
